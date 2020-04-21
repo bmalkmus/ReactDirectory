@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "hero": "Spider-Man",
+        "name": "Peter Parker",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8A0G6K9A0m2K9_spiderman-mcu-mcu-spider-man-png%2F&psig=AOvVaw3o42xOBpDmjbZ2dBYMloXD&ust=1587586596529000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICQ0oqr-ugCFQAAAAAdAAAAABAD",
+        "strength": "Radioactive Spider DNA"
+
+    },
+
+    {
+        "id":2,
+        "hero":"Captain America",
+        "name":"Steve Rogers",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FTTJix_captain-america-png-transparent-png%2F&psig=AOvVaw1pPhx41DgBIMQn006AYGFI&ust=1587586788935000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiklumr-ugCFQAAAAAdAAAAABAD",
+        "strength":"Super-Soldier Formula"
+
+    },
+
+    {
+        "id":3,
+        "hero":"Iron Man",
+        "name":"Tony Stark",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-hthdu&psig=AOvVaw3MpLIQa01QxAWtfkAv_jcn&ust=1587586819450000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD9nPir-ugCFQAAAAAdAAAAABAD",
+        "strength":"Powered Armor Suit"
+
+    },
+
+    {
+        "id":4,
+        "hero":"The Hulk",
+        "name":"Bruce Banner",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngguru.com%2Ffree-transparent-background-png-clipart-uylai&psig=AOvVaw0MAfb3OJ7tJD_PM9eAwqIx&ust=1587586854443000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCi4oqs-ugCFQAAAAAdAAAAABAD",
+        "strength":"Superhuman Strength, Durability, and Healing"
+
+    },
+
+    {
+        "id":5,
+        "hero":"Black Panther",
+        "name":"T'Challa",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngguru.com%2Ffree-transparent-background-png-clipart-voits&psig=AOvVaw1fwuljCtb8GryIkd5hgB0l&ust=1587586901660000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPie-52s-ugCFQAAAAAdAAAAABAK",
+        "strength":"Vibranium Suit and Superhuman durability"
+
+    },
+
+    {
+        "id":6,
+        "hero":"Doctor Strange",
+        "name":"Stephen Strange, MD",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngbarn.com%2Fpng-image-phjui&psig=AOvVaw1H6vR8B4SenV9C2thqpeBW&ust=1587586968628000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDQhb6s-ugCFQAAAAAdAAAAABAD",
+        "strength":"Sorcerer Supreme"
+
+    },
+
+    {
+        "id":7,
+        "hero":"Thor",
+        "name":"Thor Odinson",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-dphqr&psig=AOvVaw0MTBnNAmO5Z3G56bbhKPEF&ust=1587587001042000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD-oc2s-ugCFQAAAAAdAAAAABAD",
+        "strength":"God of Thunder"
+
+    },
+
+    {
+        "id":8,
+        "hero":"Black Widow",
+        "name":"Natasha Romanova",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-dmblh&psig=AOvVaw0zNW9WbWlhpwDK8jiHFLKw&ust=1587587024318000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC7uNms-ugCFQAAAAAdAAAAABAD",
+        "strength":"Trained Assassin"
+
+    },
+
+    {
+        "id":9,
+        "hero":"Hawkeye",
+        "name":"Clint Barton",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FhwJhxh_hawkeye-avengers-png-hawk-eye-png-transparent-png%2F&psig=AOvVaw2qtghxMIUyxaoqZ4XDwzaJ&ust=1587587059494000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiaqOis-ugCFQAAAAAdAAAAABAI",
+        "strength":"Master Marksman"
+
+    },
+
+    {
+        "id":10,
+        "hero":"Antman",
+        "name":"Scott Lang",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngguru.com%2Ffree-transparent-background-png-clipart-nbaaa&psig=AOvVaw3-H7WJMBo_cyKpfcxMsj1C&ust=1587587089424000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC0iYCt-ugCFQAAAAAdAAAAABAD",
+        "strength":"Changes Size at Will"
+
+    }
+]
