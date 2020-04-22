@@ -1,0 +1,10 @@
+.teamContent {
+    margin: 0 auto;
+    align-content: center;
+}
+
+.teamContent:after {
+    content:"";
+    display: table;
+    clear: both;
+};

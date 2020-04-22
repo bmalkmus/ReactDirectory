@@ -3,7 +3,7 @@
         "id": 1,
         "hero": "Spider-Man",
         "name": "Peter Parker",
-        "image":"../Images/Spider-Man.jpg",
+        "image":"../Images/Spider.png",
         "strength": "Radioactive Spider DNA"
 
     },
@@ -12,7 +12,7 @@
         "id":2,
         "hero":"Captain America",
         "name":"Steve Rogers",
-        "image":"../Images/CaptainAmerica.jpg",
+        "image":"../Images/Captain.png",
         "strength":"Super-Soldier Formula"
 
     },
@@ -21,7 +21,7 @@
         "id":3,
         "hero":"Iron Man",
         "name":"Tony Stark",
-        "image":"../Images/IronMan.jpg",
+        "image":"../Images/Iron.png",
         "strength":"Powered Armor Suit"
 
     },
@@ -30,7 +30,7 @@
         "id":4,
         "hero":"The Hulk",
         "name":"Bruce Banner",
-        "image":"../Images/Hulk.jpg",
+        "image":"../Images/Hulk.png",
         "strength":"Superhuman Strength, Durability, and Healing"
 
     },
@@ -39,7 +39,7 @@
         "id":5,
         "hero":"Black Panther",
         "name":"T'Challa",
-        "image":"../Images/BlackPanther.jpg",
+        "image":"../Images/Black.png",
         "strength":"Vibranium Suit and Superhuman durability"
 
     },
@@ -48,7 +48,7 @@
         "id":6,
         "hero":"Doctor Strange",
         "name":"Stephen Strange, MD",
-        "image":"../Images/Strange.jpg",
+        "image":"../Images/Strange.png",
         "strength":"Sorcerer Supreme"
 
     },
@@ -57,7 +57,7 @@
         "id":7,
         "hero":"Thor",
         "name":"Thor Odinson",
-        "image":"../Images/Thor.jpg",
+        "image":"../Images/Thor.png",
         "strength":"God of Thunder"
 
     },
@@ -66,7 +66,7 @@
         "id":8,
         "hero":"Black Widow",
         "name":"Natasha Romanova",
-        "image":"../Images/BlackWidow.jpg",
+        "image":"../Images/Widow.png",
         "strength":"Trained Assassin"
 
     },
@@ -75,7 +75,7 @@
         "id":9,
         "hero":"Hawkeye",
         "name":"Clint Barton",
-        "image":"../Images/Hawkeye.jpg",
+        "image":"../Images/Hawk.png",
         "strength":"Master Marksman"
 
     },
@@ -84,7 +84,7 @@
         "id":10,
         "hero":"Antman",
         "name":"Scott Lang",
-        "image":"../Images/AntMan.jpg",
+        "image":"../Images/Ant.png",
         "strength":"Changes Size at Will"
 
     }
