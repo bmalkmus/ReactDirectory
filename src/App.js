@@ -6,7 +6,6 @@ import Title from "./components/Title";
 import Wrapper from "./components/Wrapper";
 import Container from "./components/Container"
 import Table from "./components/Table"
-import Rows from "./components/TableRows";
 
 class App extends Component {
 state = {
@@ -47,19 +46,7 @@ render(){
           />
         ))}
       </Container>
-      <Table>
-        {this.state.employees.filter(employee => employee.active === false).map(employee => (
-          <Rows
-          Activate = {this.Activate}
-          key = {employee.id}
-          id ={employee.id}
-          hero = {employee.hero}
-          name = {employee.name}
-          strength = {employee.strength}
-          />
-          ))}
-         
-        </Table>
+      <Table data ={this.state.employees} Activate= {this.Activate}/>
     </Wrapper>
   )
 }
