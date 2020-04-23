@@ -20,6 +20,11 @@ function EmployeeCard(props) {
                 <p className = "card-text">
                     Strength: {props.strength} 
                 </p>
+                <button 
+                    type ="button"
+                    onClick ={() => props.debrief(props.id)}
+                    
+                    >Debrief Mission</button>
             </div>
 
         </div>

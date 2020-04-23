@@ -4,6 +4,7 @@
         "hero": "Spider-Man",
         "name": "Peter Parker",
         "image":"../Images/Spider.png",
+        "active": false,
         "strength": "Radioactive Spider DNA"
 
     },
@@ -13,6 +14,7 @@
         "hero":"Captain America",
         "name":"Steve Rogers",
         "image":"../Images/Captain.png",
+        "active": false,
         "strength":"Super-Soldier Formula"
 
     },
@@ -22,6 +24,7 @@
         "hero":"Iron Man",
         "name":"Tony Stark",
         "image":"../Images/Iron.png",
+        "active": false,
         "strength":"Powered Armor Suit"
 
     },
@@ -31,6 +34,7 @@
         "hero":"The Hulk",
         "name":"Bruce Banner",
         "image":"../Images/Hulk.png",
+        "active": false,
         "strength":"Superhuman Strength, Durability, and Healing"
 
     },
@@ -40,6 +44,7 @@
         "hero":"Black Panther",
         "name":"T'Challa",
         "image":"../Images/Black.png",
+        "active": false,
         "strength":"Vibranium Suit and Superhuman durability"
 
     },
@@ -49,6 +54,7 @@
         "hero":"Doctor Strange",
         "name":"Stephen Strange, MD",
         "image":"../Images/Strange.png",
+        "active": false,
         "strength":"Sorcerer Supreme"
 
     },
@@ -58,6 +64,7 @@
         "hero":"Thor",
         "name":"Thor Odinson",
         "image":"../Images/Thor.png",
+        "active": false,
         "strength":"God of Thunder"
 
     },
@@ -67,6 +74,7 @@
         "hero":"Black Widow",
         "name":"Natasha Romanova",
         "image":"../Images/Widow.png",
+        "active": false,
         "strength":"Trained Assassin"
 
     },
@@ -76,6 +84,7 @@
         "hero":"Hawkeye",
         "name":"Clint Barton",
         "image":"../Images/Hawk.png",
+        "active": false,
         "strength":"Master Marksman"
 
     },
@@ -85,6 +94,7 @@
         "hero":"Antman",
         "name":"Scott Lang",
         "image":"../Images/Ant.png",
+        "active": false,
         "strength":"Changes Size at Will"
 
     }
