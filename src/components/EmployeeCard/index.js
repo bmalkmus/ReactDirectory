@@ -21,6 +21,7 @@ function EmployeeCard(props) {
                     Strength: {props.strength} 
                 </p>
                 <button 
+                    className = "dbBTN"
                     type ="button"
                     onClick ={() => props.debrief(props.id)}
                     

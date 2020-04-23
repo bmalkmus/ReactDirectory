@@ -5,12 +5,14 @@
     border-bottom: 4px solid black;
     height: 100px;
     padding-top: 15px;
-    background-color: #1E2639;
+    background-color:
+    black;
 }
 
 .title-text {
     font-weight: bolder;
-    color: #B9BEBA;
-    text-shadow: #C72523 3px 3px 4px;
+    color: #1b2e3d;
+    text-shadow: 
+    #9cf2ff 3px 3px 4px;
 
 }

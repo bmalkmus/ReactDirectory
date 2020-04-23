@@ -37,5 +37,16 @@
       text-shadow:#0B0930 2px 2px 4px;
   }
 
+  .dbBTN {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #0B0930;
+    border-color: #7B6FDE;
+    color: #7B6FDE;
+    text-shadow: 1px 1px 3px #999;
+
+  }
+
 
   

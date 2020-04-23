@@ -39,7 +39,7 @@ class Table extends Component {
             <th onClick ={() => this.setState( {sortBy: (a, b) => a.hero.localeCompare(b.hero)})}>Alias</th>
             <th onClick ={() => this.setState( {sortBy: (a, b) => a.name.localeCompare(b.name)})}>Name</th>
             <th onClick ={() => this.setState( {sortBy: (a, b) => a.strength.localeCompare(b.strength)})}>Strength</th>
-            <th>Send to Mission</th>
+            <th className ="btnCell">Send to Mission</th>
         </tr>
     </thead>
     <tbody>
@@ -49,10 +49,10 @@ class Table extends Component {
          <td>{employee.hero}</td>
          <td>{employee.name}</td>
          <td>{employee.strength}</td>
-         <td>
+         <td className= "btnCell">
              <button 
                  type = "button" 
-                 width = "100%" 
+                 className = "BTN" 
                  id = {employee.id}
                  onClick ={() => this.props.Activate(employee.id)}
  

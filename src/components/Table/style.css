@@ -1,0 +1,38 @@
+.inactiveTab{
+    border: 3px solid black;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-image: linear-gradient(to bottom right,#361A29, #EFA53A);
+}
+
+th {
+    border: 3px solid black;
+    padding: 25px;
+    text-align: center;
+    font-weight: bolder;
+    color: #B9BEBA;
+    text-shadow: #C72523 3px 3px 4px;
+    background-color: #1E2639;
+}
+
+td {
+    border: 3px solid #1E2639;
+    text-align: left;
+    color: #B9BEBA;
+    font-weight: bold;
+}
+
+.BTN{
+    width:100%;
+    background-color:  #C72523;
+    border-color:  #C72523;
+    color: #B9BEBA;
+    text-shadow: #626EDA 3px 3px 4px;
+
+}
+
+.btnCell {
+    padding:0px;
+    text-align: center;
+}
