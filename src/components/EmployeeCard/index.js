@@ -5,7 +5,7 @@ function EmployeeCard(props) {
     return (
         <div className = "card">
             <div className = "img-container">
-                <img 
+                <img className = "card-img"
                     alt = {props.hero} 
                     src={props.image}
                 />
@@ -14,18 +14,24 @@ function EmployeeCard(props) {
                 <h4 className = "card-title">
                      {props.hero} 
                 </h4>
-                <p className = "card-text">
+                <p className = "card-text card-name">
                     Name: {props.name} 
                 </p>
-                <p className = "card-text">
+                <p className = "card-text card-strength">
                     Strength: {props.strength} 
                 </p>
                 <button 
-                    className = "dbBTN"
+                    className = "dbBTN lgBTN"
                     type ="button"
                     onClick ={() => props.debrief(props.id)}
                     
                     >Debrief Mission</button>
+                <button 
+                    className = "dbBTN smBTN"
+                    type ="button"
+                    onClick ={() => props.debrief(props.id)}
+                    
+                    >Debrief</button>
             </div>
 
         </div>

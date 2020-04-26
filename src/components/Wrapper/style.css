@@ -1,4 +1,6 @@
 .Wrapper{
     min-height: 100vh;
-    background-image: linear-gradient(to bottom right,#0d1216, #32393f);
+    min-width: 100vw;
+    background-image: linear-gradient(to bottom right,black,#00375b);
+    padding: 0;
 }

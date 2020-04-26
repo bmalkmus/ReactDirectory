@@ -2,7 +2,7 @@
     text-align: center;
     font-size: 75px;
     width: 100%;
-    border-bottom: 4px solid black;
+    border-bottom: 4px solid #019dff;
     height: 100px;
     padding-top: 15px;
     background-color:
@@ -13,6 +13,37 @@
     font-weight: bolder;
     color: #1b2e3d;
     text-shadow: 
-    #9cf2ff 3px 3px 4px;
+    #019dff 3px 3px 4px;
+    width:100%
+
 
 }
+
+.logo {
+    width: 40px;
+    height:40px;
+    margin: 5px;
+}
+
+@media only screen and (max-width: 700px) {
+     .title-text {
+         font-size: 25px;
+     }
+     .lg2{
+         display: none;
+     }
+  }
+
+  @media only screen and (max-width: 404px) {
+      .title-text {
+          font-size: 20px;
+      }
+  }
+
+  @media only screen and (max-width: 246px) {
+    .title-text {
+        font-size: 0px;
+    }
+}
+
+

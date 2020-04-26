@@ -29,10 +29,10 @@ class Table extends Component {
  render(){
      const {data} = this.props;
      return (
-        <div>
+        <div className ="table-responsive">
 <br></br>;
 <br></br>;
-<table className = "inactiveTab">
+<table className = "table inactiveTab">
     <thead>
         <tr>
             <th onClick ={() => this.setState({sortBy: (a, b) => a.id - b.id })}>Hero I.D.</th>

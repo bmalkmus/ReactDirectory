@@ -1,8 +1,9 @@
+
+
 .inactiveTab{
     border: 3px solid black;
     width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0 auto;
     background-image: linear-gradient(to bottom right,#361A29, #EFA53A);
 }
 
@@ -21,18 +22,22 @@ td {
     text-align: left;
     color: #B9BEBA;
     font-weight: bold;
+    width: min-content;
 }
 
 .BTN{
     width:100%;
     background-color:  #C72523;
     border-color:  #C72523;
+    border-style: hidden;
     color: #B9BEBA;
     text-shadow: #626EDA 3px 3px 4px;
+    min-height: 100%;
 
 }
 
-.btnCell {
+td.btnCell {
     padding:0px;
     text-align: center;
+    background-color:  #C72523;
 }
