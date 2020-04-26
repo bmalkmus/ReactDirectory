@@ -4,7 +4,11 @@
     border: 3px solid black;
     width: 70%;
     margin: 0 auto;
-    background-image: linear-gradient(to bottom right,#361A29, #EFA53A);
+    /* background: linear-gradient(to bottom right,#361A29, #EFA53A); */
+}
+
+tbody{
+    background-color: linear-gradient(to bottom right,#361A29, #EFA53A);
 }
 
 th {
