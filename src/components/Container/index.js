@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./container.css";
 
 function Container(props){
     return <div className = "container card-column teamContent">{props.children}</div>;
