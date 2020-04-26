@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactDirectory/static/css/main.74c2810e.chunk.css",
+    "main.js": "/ReactDirectory/static/js/main.5afe08a5.chunk.js",
+    "main.js.map": "/ReactDirectory/static/js/main.5afe08a5.chunk.js.map",
+    "runtime-main.js": "/ReactDirectory/static/js/runtime-main.bd72d0bc.js",
+    "runtime-main.js.map": "/ReactDirectory/static/js/runtime-main.bd72d0bc.js.map",
+    "static/js/2.571d98d3.chunk.js": "/ReactDirectory/static/js/2.571d98d3.chunk.js",
+    "static/js/2.571d98d3.chunk.js.map": "/ReactDirectory/static/js/2.571d98d3.chunk.js.map",
+    "index.html": "/ReactDirectory/index.html",
+    "precache-manifest.886ae10cca37fee38b4d9a8f5dc370cd.js": "/ReactDirectory/precache-manifest.886ae10cca37fee38b4d9a8f5dc370cd.js",
+    "service-worker.js": "/ReactDirectory/service-worker.js",
+    "static/css/main.74c2810e.chunk.css.map": "/ReactDirectory/static/css/main.74c2810e.chunk.css.map",
+    "static/js/2.571d98d3.chunk.js.LICENSE.txt": "/ReactDirectory/static/js/2.571d98d3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ReactDirectory/static/media/Avengers.7b7a6d29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd72d0bc.js",
+    "static/js/2.571d98d3.chunk.js",
+    "static/css/main.74c2810e.chunk.css",
+    "static/js/main.5afe08a5.chunk.js"
+  ]
+}
